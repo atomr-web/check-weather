@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/check-weather/static/css/main.d939df25.chunk.css",
+    "main.js": "/check-weather/static/js/main.7730cdc8.chunk.js",
+    "main.js.map": "/check-weather/static/js/main.7730cdc8.chunk.js.map",
+    "runtime-main.js": "/check-weather/static/js/runtime-main.abbfcd76.js",
+    "runtime-main.js.map": "/check-weather/static/js/runtime-main.abbfcd76.js.map",
+    "static/js/2.19b1628a.chunk.js": "/check-weather/static/js/2.19b1628a.chunk.js",
+    "static/js/2.19b1628a.chunk.js.map": "/check-weather/static/js/2.19b1628a.chunk.js.map",
+    "index.html": "/check-weather/index.html",
+    "precache-manifest.20523dc22d009274ec0d85799c5ba9b6.js": "/check-weather/precache-manifest.20523dc22d009274ec0d85799c5ba9b6.js",
+    "service-worker.js": "/check-weather/service-worker.js",
+    "static/css/main.d939df25.chunk.css.map": "/check-weather/static/css/main.d939df25.chunk.css.map",
+    "static/js/2.19b1628a.chunk.js.LICENSE.txt": "/check-weather/static/js/2.19b1628a.chunk.js.LICENSE.txt",
+    "static/media/loading.svg": "/check-weather/static/media/loading.d8b3f08b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abbfcd76.js",
+    "static/js/2.19b1628a.chunk.js",
+    "static/css/main.d939df25.chunk.css",
+    "static/js/main.7730cdc8.chunk.js"
+  ]
+}
